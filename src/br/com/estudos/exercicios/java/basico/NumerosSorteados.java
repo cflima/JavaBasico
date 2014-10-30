@@ -10,7 +10,6 @@ public class NumerosSorteados {
 	 * Quando ele descobrir exiba uma mensagem de parabéns e mostre em quantas tentativas ele conseguiu. 
 	 * 
 	 */
-	
 	public static void main(String[] args) {
 		
 		Random rand = new Random();
