@@ -34,7 +34,8 @@ public class NumerosSorteados {
 			}
 			else{
 				tentativas++;
-				System.out.println("Parabéns você acertou o número correto com apenas " + tentativas + " tentativas.");
+				System.out.println("Parabéns você acertou o número correto com apenas " 
+				+ tentativas + " tentativas.");
 			}
 		
 	  }
